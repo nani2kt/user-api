@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a38b5b76-ffa2-412b-9574-ba8ee3d4b5f5": {
+      "ProjectGuid": "a38b5b76-ffa2-412b-9574-ba8ee3d4b5f5",
+      "DisplayName": "EmployeeManagement.Demo.API",
+      "ColorIndex": 0
+    },
+    "c922183b-c0c3-4c44-a97e-f0766b728ed3": {
+      "ProjectGuid": "c922183b-c0c3-4c44-a97e-f0766b728ed3",
+      "DisplayName": "EmployeeManagement.Demo.Models",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,15 @@
+C:\Users\c5265003\Documents\Github\EmployeeManagement.Demo.API\EmployeeManagement.Demo.Models\bin\Debug\net5.0\EmployeeManagement.Demo.Models.deps.json
+C:\Users\c5265003\Documents\Github\EmployeeManagement.Demo.API\EmployeeManagement.Demo.Models\bin\Debug\net5.0\EmployeeManagement.Demo.Models.runtimeconfig.json
+C:\Users\c5265003\Documents\Github\EmployeeManagement.Demo.API\EmployeeManagement.Demo.Models\bin\Debug\net5.0\EmployeeManagement.Demo.Models.runtimeconfig.dev.json
+C:\Users\c5265003\Documents\Github\EmployeeManagement.Demo.API\EmployeeManagement.Demo.Models\bin\Debug\net5.0\EmployeeManagement.Demo.Models.dll
+C:\Users\c5265003\Documents\Github\EmployeeManagement.Demo.API\EmployeeManagement.Demo.Models\bin\Debug\net5.0\ref\EmployeeManagement.Demo.Models.dll
+C:\Users\c5265003\Documents\Github\EmployeeManagement.Demo.API\EmployeeManagement.Demo.Models\bin\Debug\net5.0\EmployeeManagement.Demo.Models.pdb
+C:\Users\c5265003\Documents\Github\EmployeeManagement.Demo.API\EmployeeManagement.Demo.Models\obj\Debug\net5.0\EmployeeManagement.Demo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\c5265003\Documents\Github\EmployeeManagement.Demo.API\EmployeeManagement.Demo.Models\obj\Debug\net5.0\EmployeeManagement.Demo.Models.AssemblyInfoInputs.cache
+C:\Users\c5265003\Documents\Github\EmployeeManagement.Demo.API\EmployeeManagement.Demo.Models\obj\Debug\net5.0\EmployeeManagement.Demo.Models.AssemblyInfo.cs
+C:\Users\c5265003\Documents\Github\EmployeeManagement.Demo.API\EmployeeManagement.Demo.Models\obj\Debug\net5.0\EmployeeManagement.Demo.Models.csproj.CoreCompileInputs.cache
+C:\Users\c5265003\Documents\Github\EmployeeManagement.Demo.API\EmployeeManagement.Demo.Models\obj\Debug\net5.0\EmployeeManagement.Demo.Models.dll
+C:\Users\c5265003\Documents\Github\EmployeeManagement.Demo.API\EmployeeManagement.Demo.Models\obj\Debug\net5.0\ref\EmployeeManagement.Demo.Models.dll
+C:\Users\c5265003\Documents\Github\EmployeeManagement.Demo.API\EmployeeManagement.Demo.Models\obj\Debug\net5.0\EmployeeManagement.Demo.Models.pdb
+C:\Users\c5265003\Documents\Github\EmployeeManagement.Demo.API\EmployeeManagement.Demo.Models\obj\Debug\net5.0\EmployeeManagement.Demo.Models.genruntimeconfig.cache
+C:\Users\c5265003\Documents\Github\EmployeeManagement.Demo.API\EmployeeManagement.Demo.Models\obj\Debug\net5.0\EmployeeManagement.Demo.Models.csproj.AssemblyReference.cache
